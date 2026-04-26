@@ -1,0 +1,15 @@
+{
+    "student_id": "123APARNA",
+    "name": "Aparna",
+    "total_questions": 10,
+    "total_correct": 7,
+    "accuracy": 70.0,
+    "topic_mastery": {
+        "Databases": 0.7997,
+        "Data Structures": 0.9176,
+        "Neural Networks": 0.9383,
+        "Machine Learning": 0.7268
+    },
+    "weak_topics": [],
+    "timestamp": "2026-04-24 00:12:13"
+}

@@ -1,0 +1,15 @@
+Baseline R²: 0.3611
+Your Model R²: 0.7461
+Improvement: 38.5%
+
+Feature Importance:
+                 Feature  Importance
+5  assessments_attempted    0.605059
+8           weeks_active    0.095260
+0              avg_score    0.091262
+3     avg_submission_gap    0.049882
+1           total_clicks    0.037797
+2       avg_daily_clicks    0.032921
+6              click_std    0.032552
+4   late_submission_rate    0.028699
+7      peak_daily_clicks    0.026568
